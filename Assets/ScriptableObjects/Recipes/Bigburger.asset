@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35008e4e9676923499989874079420e4, type: 3}
+  m_Name: Bigburger
+  m_EditorClassIdentifier: 
+  recipeIngredients_KOSO_Catalog:
+  - {fileID: 11400000, guid: 3d87a095d434c8741b51d55ee24406fb, type: 2}
+  - {fileID: 11400000, guid: 916810f72b631d74e8d51d87011034b2, type: 2}
+  - {fileID: 11400000, guid: 0e9faff5c1c78444fa71567c959d7c4b, type: 2}
+  - {fileID: 11400000, guid: 62d27c061d4be814f837e844b6befed3, type: 2}
+  - {fileID: 11400000, guid: 933867f9daf6f1d41be5e59f39227aa7, type: 2}
+  recipeName: Bigburger
